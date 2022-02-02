@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Tinker site Official</title>
+    <link>paidcourses.github.io/about/</link>
+    <description>Recent content in Abouts on Tinker site Official</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2019 01:30:25 +0800</lastBuildDate><atom:link href="paidcourses.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>paidcourses.github.io/about/desc/</link>
+      <pubDate>Mon, 11 Nov 2019 01:30:25 +0800</pubDate>
+      
+      <guid>paidcourses.github.io/about/desc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SKILLS</title>
+      <link>paidcourses.github.io/about/desc2/</link>
+      <pubDate>Mon, 11 Nov 2019 01:30:24 +0800</pubDate>
+      
+      <guid>paidcourses.github.io/about/desc2/</guid>
+      <description>PROGRAMMING LANGUAGE SKILLS:    LANGUAGE Proficiency     C 65%   Java 50%   Python 40%   C++ 70%    OTHERS:    Topic Proficiency     Git 50%   Filmora 70%   Markdown 60%    </description>
+    </item>
+    
+    <item>
+      <title>Achievements</title>
+      <link>paidcourses.github.io/about/desc3/</link>
+      <pubDate>Mon, 11 Nov 2019 01:30:23 +0800</pubDate>
+      
+      <guid>paidcourses.github.io/about/desc3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

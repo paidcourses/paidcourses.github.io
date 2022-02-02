@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tinker site Official</title>
+    <link>paidcourses.github.io/categories/</link>
+    <description>Recent content in Categories on Tinker site Official</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jan 2022 23:58:15 +0800</lastBuildDate><atom:link href="paidcourses.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BCS</title>
+      <link>paidcourses.github.io/categories/bcs/</link>
+      <pubDate>Tue, 04 Jan 2022 23:58:15 +0800</pubDate>
+      
+      <guid>paidcourses.github.io/categories/bcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IELTS</title>
+      <link>paidcourses.github.io/categories/ielts/</link>
+      <pubDate>Tue, 04 Jan 2022 23:58:15 +0800</pubDate>
+      
+      <guid>paidcourses.github.io/categories/ielts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MATLAB</title>
+      <link>paidcourses.github.io/categories/matlab/</link>
+      <pubDate>Tue, 04 Jan 2022 23:58:15 +0800</pubDate>
+      
+      <guid>paidcourses.github.io/categories/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>paidcourses.github.io/categories/simulation/</link>
+      <pubDate>Tue, 04 Jan 2022 23:58:15 +0800</pubDate>
+      
+      <guid>paidcourses.github.io/categories/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformers</title>
+      <link>paidcourses.github.io/categories/transformers/</link>
+      <pubDate>Tue, 04 Jan 2022 23:58:15 +0800</pubDate>
+      
+      <guid>paidcourses.github.io/categories/transformers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LaTex</title>
+      <link>paidcourses.github.io/categories/latex/</link>
+      <pubDate>Mon, 03 Jan 2022 23:58:15 +0800</pubDate>
+      
+      <guid>paidcourses.github.io/categories/latex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
